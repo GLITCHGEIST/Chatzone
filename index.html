@@ -1,0 +1,37 @@
+---
+layout: default
+title: BLOG - GhostTyrant
+---
+
+{%- assign latest_post = site.posts[0] -%}
+
+
+<div class="header">
+ <a href="{{site.baseurl}}{{latest_post.url}}"> 
+ <img src="{{site.baseurl}}{{latest_post.headerPath}}" class="headerImg">
+    <div class="overlay">
+	    <div class="overlayText">{{latest_post.postTitle}}</div>
+   </div>
+   </a>
+</div>
+
+<div class="break">
+</div>
+
+
+<div class="gallery">
+
+<div class="row">
+
+	{% for post in site.posts offset:1 %}
+		<div class="column">
+			<a href="{{site.baseurl}}{{ post.url }}"> 
+				<img src="{{site.baseurl}}{{post.headerPath}}" class="image">
+				<div class="overlay">
+					<div class="overlayText">{{post.postTitle}}</div>
+				</div> 
+			</a>
+		</div>
+   {% endfor %}
+
+</div>

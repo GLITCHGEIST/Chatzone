@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="break" style="height:200px"> </div>
+
+
+<div id="postContainer" class="postContainer">
+
+<img src="{{site.baseurl}}{{page.headerPath}}" class="postHeader">
+<div class="postMainText" style="font-size:40px;color:white;font-weight:bold;padding-top:15px">{{ page.postTitle }}</div>
+<div class="postMainText" style="font-size:12px;padding-bottom:20px">{{ page.monthYear }} - {{page.readTime}} read</div>
+
+
+<div class="postBreak"> </div>
+
+<div class="postMainText" style="font-size:15px;padding-bottom:15px">{{ content }}</div>
+
+</div>
+
+<div class="artPageNav">
+<a href="{{page.next.url}}">
+<img src="{{site.baseurl}}/assets/ui/top.png" class="artPageNavButton" style="float:left;transform:rotate(270deg)">
+</a>
+
+
+<a href="{{page.previous.url}}">
+<img src="/assets/ui/top.png" class="artPageNavButton" style="float:right;transform:rotate(90deg)">
+</a>
+
+
+<a href="https://twitter.com/GhostTyrant/">
+<img src="{{site.baseurl}}/assets/ui/twitter.png" class="artPageNavButton" style="display: block; margin:auto">
+</a>
+
+</div>
+
+<div class="break" style="height:40px"> </div>

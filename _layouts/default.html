@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<link rel="shortcut icon" href="{{site.baseurl}}/favicon.ico">
+
+<title>{{page.title}}</title>
+		<link rel="stylesheet" type="text/css" href="{{site.baseurl}}/css/main.css">
+</head>
+<body onload="resizeFunction()" onresize="resizeFunction()">
+
+<div id="navBar" class="navBarBase">
+	<div id="navActiveZone" class="navBarActiveZone">
+		<a href="https://ghosttyrant.co.uk/">   
+		<img src="{{site.baseurl}}/assets/ghosttyrant_title.png" id="navTitle" class="navBarTitle">
+		</a>
+		
+		<div id="navBarLinks" class="navBarLinkList">
+				
+				<a href="https://glitchgeist.itch.io/">
+					<img src="{{site.baseurl}}/assets/ui/itch.png" class= "navBarLinkItem">
+				</a>
+				
+				<a href="https://twitter.com/GhostTyrant/">
+					<img src="{{site.baseurl}}/assets/ui/twitter.png" class= "navBarLinkItem">
+				</a>
+				
+				<a href="https://ghosttyrant.co.uk/about/">
+					<img src="{{site.baseurl}}/assets/ui/about.png" class= "navBarLinkItem">
+				</a>
+				
+				<a href="{{site.baseurl}}/">
+					<img src="{{site.baseurl}}/assets/ui/speech.png" class= "navBarLinkItem">
+				</a>
+				
+				<div id="navDrop" class="navDropdown">			
+					  <img src="{{site.baseurl}}/assets/ui/photo.png" class= "navDropdown-Icon" id="navDropIcon">
+					
+					  <div class="navDropdown-Content">
+						<a href="https://ghosttyrant.co.uk/" style="font-weight:normal">Polished</a>
+						<a href="https://ghosttyrant.co.uk/sketch" style="font-weight:normal">Quick</a>
+					</div>
+				</div			
+
+				
+				<a href="https://ghosttyrant.co.uk/">
+					<img src="{{site.baseurl}}/assets/ghost_icon.png" class= "navBarLinkHome">
+				</a>
+
+		</div>
+		
+		<a href="https://ghosttyrant.co.uk/">
+		<img src="{{site.baseurl}}/assets/ghost_icon_outline.png" class="navIcon" id="navIcon">
+		</a>
+	</div>
+</div>
+
+
+<section>
+      {{ content }}
+</section>
+
+<div class="footer">
+  <p>© 2020 all rights reserved. Please don't repost my art.</p>
+</div>
+
+
+
+<script>
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+    document.getElementById("navBar").style.height = "40px";
+	document.getElementById("navIcon").style.top = "0px";	
+	document.getElementById("navBarLinks").style.padding = "0px";
+	document.getElementById("navDrop").style.height = "125%";	
+	document.getElementById("navDrop").style.paddingRight = "0";
+
+  } else {
+    document.getElementById("navBar").style.height = "80px";
+	document.getElementById("navIcon").style.top = "20px";	
+	document.getElementById("navBarLinks").style.padding = "15px";
+	document.getElementById("navDrop").style.height = "150%";	
+	document.getElementById("navDrop").style.paddingRight = "7px";
+  }
+}
+
+function resizeFunction(){
+  var w = window.innerWidth;
+  if (innerWidth < 1400) {
+	document.getElementById("navActiveZone").style.width = w + "px";
+  }
+  else {
+  	document.getElementById("navActiveZone").style.width = "1400px";
+  }
+
+}
+
+</script>
+
+</body>
+</html>
