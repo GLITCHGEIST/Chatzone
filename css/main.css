@@ -437,7 +437,7 @@ a {
 }
 
 a:hover {
-  color: green;
+  color: #69e769;
   text-decoration: none;
   font-weight:bold;
 }
