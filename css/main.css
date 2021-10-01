@@ -336,6 +336,7 @@ transition: 0.4s;
 .overlayText {
   color: white;
   font-size: 50px;
+  font-weight:normal;
   text-align:center;
   text-transform: uppercase;
   z-index:2;
