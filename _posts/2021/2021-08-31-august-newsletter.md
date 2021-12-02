@@ -57,6 +57,9 @@ I ended up choosing the latter song because the stage show has an incredible red
 
 When I sat down to draw some fanart I was thinking about how much I wanted to draw Beetlejuice in his original outfit and palette, because we share a fashion sense and I want to celebrate that. Instead I keep grabbing all the neons from the paintbox. In no way is this a bad thing, but maybe there’s still more Beetlejuice art yet to come. We’ll see.
 
+<span style="color:white">**BEETLEJUICE'S DESIGN**</span> -  I took some inspiration from [Shnikkles’](https://twitter.com/Shnikkles) amazing animatic for [ON THE ROOF](https://www.youtube.com/watch?v=PhqYKZ0q1Ac), her interpretation of Beetlejuice just really clicked with me. Her work is really cool and she’s still making incredible BEETLEJUICE art even now (including another animatic!) so I highly recommend you check her stuff out!
+
+<br>
 
 It was shark week at some point. I know this because YouTube kept putting clickbait shark videos on the front page and I kept watching them. Sharks are just really cute you know? They have little confused faces and they’re just swimming around. I quickly deviated from watching SHARK VS ONE DROP OF BLOOD?? videos to 10 HOURS OF SHARKS WITH RELAXING MUSIC because you know. Current times. Sometimes you just wanna lie at the bottom of the ocean with some sharks, sometimes you just wanna draw a shark.
 
