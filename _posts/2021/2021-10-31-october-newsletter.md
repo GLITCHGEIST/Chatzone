@@ -158,7 +158,7 @@ If you’d like to play, head over to the [itch.io page](https://johnjoemcbob.it
 <span style="color:white">**OUIJA**</span> – A wishlist item for many years, I finally acquired it...a GLOW IN THE DARK Ouija board. I don’t believe in ghosts or demons so it’s mostly for decoration. I tried playing a few times by myself to no avail (the planchette doesn’t move so easily if you don’t believe it’s ghosts) and notably I have not been haunted in the weeks since. Perhaps they are all afraid of me, the ghost that resides here already.
 
 {:refdef: style="text-align: center;"}
-![new phone](/assets/2021_misc/october_2021_ouija.jpg)
+![new phone](/assets/2021_misc/october_2021_ouija.png)
 {: refdef}
 
 <br>
