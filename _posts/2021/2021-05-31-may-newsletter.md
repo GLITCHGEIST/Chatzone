@@ -3,7 +3,7 @@ layout: newsletterPost
 title:  MAY 2021 - GhostTyrant
 date:   2021-05-31
 
-postTitle: MAY NEWSLETTER
+postTitle: MAY NEWSLETTER 2021
 monthYear: MAY 2021
 readTime: 15min
 headerPath: /assets/headers/may_2021_electroma.png

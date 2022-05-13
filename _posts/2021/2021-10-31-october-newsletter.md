@@ -3,7 +3,7 @@ layout: newsletterPost
 title:  OCTOBER 2021 - GhostTyrant
 date:   2021-10-31
 
-postTitle: OCTOBER NEWSLETTER
+postTitle: OCTOBER NEWSLETTER 2021
 monthYear: OCTOBER 2021
 readTime: 10min
 headerPath: /assets/headers/october_2021_haunted.png

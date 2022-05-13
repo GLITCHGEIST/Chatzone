@@ -3,7 +3,7 @@ layout: newsletterPost
 title:  DECEMBER 2021 - GhostTyrant
 date:   2021-12-31
 
-postTitle: DECEMBER NEWSLETTER
+postTitle: DECEMBER NEWSLETTER 2021
 monthYear: DECEMBER 2021
 readTime: 15min
 headerPath: /assets/headers/dec_2021_solar.png

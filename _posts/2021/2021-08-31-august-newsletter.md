@@ -3,7 +3,7 @@ layout: newsletterPost
 title:  AUGUST 2021 - GhostTyrant
 date:   2021-08-31
 
-postTitle: AUGUST NEWSLETTER
+postTitle: AUGUST NEWSLETTER 2021
 monthYear: AUGUST 2021
 readTime: 10min
 headerPath: /assets/headers/august_2021_duckPond.png

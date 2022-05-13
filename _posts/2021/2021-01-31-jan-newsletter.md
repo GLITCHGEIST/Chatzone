@@ -3,7 +3,7 @@ layout: newsletterPost
 title:  JANUARY 2021 - GhostTyrant
 date:   2021-01-31
 
-postTitle: JANUARY NEWSLETTER
+postTitle: JANUARY NEWSLETTER 2021
 monthYear: JANUARY 2021
 readTime: 8min
 headerPath: /assets/headers/jan_2021_skeleton.png
